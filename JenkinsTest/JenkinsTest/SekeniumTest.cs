@@ -27,7 +27,7 @@ namespace JenkinsTest
             switch (browserType.ToLower())
             {
                    
-                case "chrome":
+                case "chromes":
                      var options = new ChromeOptions();
                             driver = new ChromeDriver(Chrome_Driver);
                     break;
