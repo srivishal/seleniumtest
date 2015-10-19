@@ -31,7 +31,7 @@ namespace JenkinsTest
                      var options = new ChromeOptions();
                             driver = new ChromeDriver(Chrome_Driver);
                     break;
-                case "firefox" :
+                case "firef" :
                     driver = new FirefoxDriver();
                     break;
 
