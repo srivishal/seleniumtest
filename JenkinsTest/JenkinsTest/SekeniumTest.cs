@@ -34,7 +34,9 @@ namespace JenkinsTest
                 case "firefox" :
                     driver = new FirefoxDriver();
                     break;
-
+                case "default":
+                    driver = new FirefoxDriver();
+                    break;
             }
             return driver;
         }
