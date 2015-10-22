@@ -36,8 +36,9 @@ namespace JenkinsTest
                     break;
                 case "default":
                     driver = new FirefoxDriver();
+                    driver.Manage().Window.Maximize();
                     break;
-                    lwnlklsd
+                    
             }
             return driver;
         }
