@@ -38,7 +38,7 @@ namespace JenkinsTest
                     driver = new FirefoxDriver();
                     driver.Manage().Window.Maximize();
                     break;
-                    dfdfdf dq;kmfqmflk
+                    
             }
             return driver;
         }
