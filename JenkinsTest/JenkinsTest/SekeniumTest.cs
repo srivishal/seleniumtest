@@ -19,14 +19,14 @@ namespace JenkinsTest
     public class SekeniumTest
     {
         IWebDriver driver;
-        private string Chrome_Driver = @Directory.GetParent(Environment.CurrentDirectory).Parent.FullName + "\\chromedriver";
+        private string Chrome_Driver = @Directory.GetParent(Environment.CurrentDirectory).Parent.Parent.FullName + "\\chromedriver";
         public static string browser = System.Environment.GetEnvironmentVariable("Browser");
         public static string pageUrl = System.Environment.GetEnvironmentVariable("Page");
         public IWebDriver getDriver(string browserType)
         {
             switch (browserType.ToLower())
+            
             {
-                   
                 case "chrome":
                      var options = new ChromeOptions();
                             driver = new ChromeDriver(Chrome_Driver);

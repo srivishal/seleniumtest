@@ -1,4 +1,3 @@
-D:\jenkins training\JenkinsTest\JenkinsTest\bin\Debug\JenkinsTest.dll
 D:\jenkins training\JenkinsTest\JenkinsTest\bin\Debug\JenkinsTest.pdb
 D:\jenkins training\JenkinsTest\JenkinsTest\bin\Debug\nunit.framework.dll
 D:\jenkins training\JenkinsTest\JenkinsTest\bin\Debug\Selenium.WebDriverBackedSelenium.dll
@@ -14,5 +13,6 @@ D:\jenkins training\JenkinsTest\JenkinsTest\bin\Debug\WebDriver.pdb
 D:\jenkins training\JenkinsTest\JenkinsTest\bin\Debug\WebDriver.xml
 D:\jenkins training\JenkinsTest\JenkinsTest\bin\Debug\WebDriver.Support.pdb
 D:\jenkins training\JenkinsTest\JenkinsTest\bin\Debug\WebDriver.Support.xml
-D:\jenkins training\JenkinsTest\JenkinsTest\obj\Debug\JenkinsTest.dll
 D:\jenkins training\JenkinsTest\JenkinsTest\obj\Debug\JenkinsTest.pdb
+D:\jenkins training\JenkinsTest\JenkinsTest\bin\Debug\JenkinsTest.dll
+D:\jenkins training\JenkinsTest\JenkinsTest\obj\Debug\JenkinsTest.dll
