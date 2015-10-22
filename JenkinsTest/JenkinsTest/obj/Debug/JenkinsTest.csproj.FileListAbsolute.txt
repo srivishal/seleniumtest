@@ -1,4 +1,3 @@
-D:\jenkins training\JenkinsTest\JenkinsTest\obj\Debug\JenkinsTest.csprojResolveAssemblyReference.cache
 D:\jenkins training\JenkinsTest\JenkinsTest\bin\Debug\JenkinsTest.dll
 D:\jenkins training\JenkinsTest\JenkinsTest\bin\Debug\JenkinsTest.pdb
 D:\jenkins training\JenkinsTest\JenkinsTest\bin\Debug\nunit.framework.dll
