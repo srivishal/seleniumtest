@@ -20,8 +20,11 @@ namespace JenkinsTest
     {
         IWebDriver driver;
         private string Chrome_Driver = @Directory.GetParent(Environment.CurrentDirectory).Parent.Parent.FullName + "\\chromedriver";
-        public static string browser = System.Environment.GetEnvironmentVariable("Browser");
-        public static string pageUrl = System.Environment.GetEnvironmentVariable("Page");
+      //  public static string browser = System.Environment.GetEnvironmentVariable("Browser");
+        //public static string pageUrl = System.Environment.GetEnvironmentVariable("Page");
+
+        public static string browser = "chrome";
+        public static string pageUrl = "www.yahoo.com";
         public IWebDriver getDriver(string browserType)
         {
             switch (browserType.ToLower())
