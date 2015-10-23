@@ -1,4 +1,3 @@
-D:\jenkins training\JenkinsTest\JenkinsTest\bin\Release\JenkinsTest.dll
 D:\jenkins training\JenkinsTest\JenkinsTest\bin\Release\JenkinsTest.pdb
 D:\jenkins training\JenkinsTest\JenkinsTest\bin\Release\nunit.framework.dll
 D:\jenkins training\JenkinsTest\JenkinsTest\bin\Release\Selenium.WebDriverBackedSelenium.dll
@@ -14,6 +13,6 @@ D:\jenkins training\JenkinsTest\JenkinsTest\bin\Release\WebDriver.pdb
 D:\jenkins training\JenkinsTest\JenkinsTest\bin\Release\WebDriver.xml
 D:\jenkins training\JenkinsTest\JenkinsTest\bin\Release\WebDriver.Support.pdb
 D:\jenkins training\JenkinsTest\JenkinsTest\bin\Release\WebDriver.Support.xml
-D:\jenkins training\JenkinsTest\JenkinsTest\obj\Release\JenkinsTest.dll
 D:\jenkins training\JenkinsTest\JenkinsTest\obj\Release\JenkinsTest.pdb
-D:\jenkins training\JenkinsTest\JenkinsTest\obj\Release\JenkinsTest.csprojResolveAssemblyReference.cache
+D:\jenkins training\JenkinsTest\JenkinsTest\bin\Release\JenkinsTest.dll
+D:\jenkins training\JenkinsTest\JenkinsTest\obj\Release\JenkinsTest.dll

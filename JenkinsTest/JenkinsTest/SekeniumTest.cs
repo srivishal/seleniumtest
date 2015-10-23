@@ -50,14 +50,14 @@ namespace JenkinsTest
         public void OpenGooglePage()
         {
             driver = getDriver(browser);
-            driver.Navigate().GoToUrl(pageUrl);
+            driver.Navigate().GoToUrl("http://google.com");
         }
-        [Test]
-        public void OpenYahooPage()
-        {
-            driver = getDriver(browser);
-            driver.Navigate().GoToUrl("www.yahoo.com");
-        }
+        //[Test]
+        //public void OpenYahooPage()
+        //{
+        //    driver = getDriver(browser);
+        //    driver.Navigate().GoToUrl("www.yahoo.com");
+        //}
  
     }
 }
