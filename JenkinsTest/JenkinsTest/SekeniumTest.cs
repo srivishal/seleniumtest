@@ -51,6 +51,7 @@ namespace JenkinsTest
         {
             driver = getDriver(browser)
             Console.Write("")
+                Console.Write("")
             driver.Navigate().GoToUrl("http://google.com");
         }
         //[Test]
