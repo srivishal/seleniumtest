@@ -51,7 +51,7 @@ namespace JenkinsTest
         {
             driver = getDriver(browser);
             
-            driver.Navigate().GoToUrl("http://google.com");
+            driver.Navigate().GoToUrl("http://google.com"
         }
         //[Test]
         //public void OpenYahooPage()
