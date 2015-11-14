@@ -49,7 +49,7 @@ namespace JenkinsTest
         [Test]
         public void OpenGooglePage()
         {
-            driver = getDriver(browser)
+            driver = getDriver(browser) bkjsbdb
 
             driver.Navigate().GoToUrl("http://google.com")
         }
