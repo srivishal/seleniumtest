@@ -16,3 +16,4 @@ D:\jenkins training\JenkinsTest\JenkinsTest\bin\Release\WebDriver.Support.xml
 D:\jenkins training\JenkinsTest\JenkinsTest\obj\Release\JenkinsTest.pdb
 D:\jenkins training\JenkinsTest\JenkinsTest\bin\Release\JenkinsTest.dll
 D:\jenkins training\JenkinsTest\JenkinsTest\obj\Release\JenkinsTest.dll
+D:\jenkins training\JenkinsTest\JenkinsTest\obj\Release\JenkinsTest.csprojResolveAssemblyReference.cache
