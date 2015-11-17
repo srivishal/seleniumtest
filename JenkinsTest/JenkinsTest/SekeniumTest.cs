@@ -52,13 +52,10 @@ namespace JenkinsTest
             driver = getDriver(browser);
             Console.WriteLine("testing");
             driver.Navigate().GoToUrl(pageUrl);
-        }
-
-        [Test]
-        public void Closedriver()
-        {
             driver.Quit();
         }
+
+      
         //[Test]
         //public void OpenYahooPage()
         //{
