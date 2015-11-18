@@ -23,8 +23,6 @@ namespace JenkinsTest
         public static string browser = System.Environment.GetEnvironmentVariable("Browser");
         public static string pageUrl = System.Environment.GetEnvironmentVariable("Page");
 
-        //public static string browser = "chrome";
-        //public static string pageUrl = "www.yahoo.com";
         public IWebDriver getDriver(string browserType)
         {
             switch (browserType.ToLower())
@@ -50,18 +48,12 @@ namespace JenkinsTest
         public void OpenGooglePage()
         {
             driver = getDriver(browser);
-            Console.WriteLine("testing");
-            driver.Navigate().GoToUrl(pageUrl);
+            Console.WriteLine("testing")
+            driver.Navigate().GoToUrl(pageUrl)
             driver.Quit();
         }
-
-      
-        //[Test]
-        //public void OpenYahooPage()
-        //{
-        //    driver = getDriver(browser);
-        //    driver.Navigate().GoToUrl("www.yahoo.com");
-        //}
+  
+       
  
     }
 }
