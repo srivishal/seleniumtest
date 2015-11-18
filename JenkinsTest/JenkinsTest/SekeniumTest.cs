@@ -48,8 +48,8 @@ namespace JenkinsTest
         public void OpenGooglePage()
         {
             driver = getDriver(browser);
-            Console.WriteLine("testing")
-            driver.Navigate().GoToUrl(pageUrl)
+            Console.WriteLine("testing");
+            driver.Navigate().GoToUrl(pageUrl);
             driver.Quit();
         }
   
